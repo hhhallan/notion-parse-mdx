@@ -1,7 +1,7 @@
 {
-  "name": "@kodaps/notion-parse",
+  "name": "@hhhallan/notion-parse-mdx",
   "version": "0.0.14",
-  "description": "Convert Notion pages to Markdown with frontmatter",
+  "description": "Convert Notion pages to Markdown with frontmatter - (Kodaps) / Convert to MDX pages - (hhhallan)",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "scripts": {
