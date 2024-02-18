@@ -23,7 +23,7 @@ export const getImageFolder = (filetype: string) => {
 
 export const getFilePath = (slug: string, filetype: string, lang?: string) => {
   const fileFolder = getFileFolder(filetype, lang);
-  return `${fileFolder}${slug}.md`;
+  return `${fileFolder}${slug}.mdx`;
 };
 
 export const getImageFolderPath = (slug: string, filetype: string) => {
